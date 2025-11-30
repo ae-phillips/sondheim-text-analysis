@@ -1,6 +1,6 @@
 # “Love” in Stephen Sondheim’s lyrical corpus: An exploration through tf-idf, sentiment analysis, and topic modeling
 
-*This project explores lyrical themes and sentiment in Stephen Sondheim's musicals using R for my DSST 389: Advanced Data Science final project at the University of Richmond (April 2025).*
+*This project explores lyrical themes and sentiment in Stephen Sondheim's musicals using R for my DSST 389: Advanced Data Science final project at the University of Richmond (April 2025). A full pdf output is available (sondheim_knitted.pdf) with code, figures, and textual descriptions, but I've summarized the project below.*
 
 ## Introduction: Stephen Sondheim
 
